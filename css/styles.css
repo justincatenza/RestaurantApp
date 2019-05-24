@@ -134,8 +134,8 @@ nav h1 a {
   background-color: #f3f3f3;
   list-style: outside none none;
   margin: 0;
-  padding: 30px 15px 60px;
   text-align: center;
+  width: 100px;
 }
 #restaurants-list li {
   background-color: #fff;
@@ -190,23 +190,26 @@ nav h1 a {
   z-index: 1000;
 }
 .inside #map-container {
-  background: blue none repeat scroll 0 0;
-  height: 87%;
+  height: 60%;
   position: fixed;
   right: 0;
-  top: 80px;
-  width: 50%;
+  width: 45%;
+  top: 100px;
 }
 .inside #map {
   background-color: #ccc;
   height: 100%;
-  width: 100%;
+  width: 90%;
+  left: 20px;
+  
 }
 .inside #footer {
   bottom: 0;
   position: absolute;
-  width: 50%;
+  width: 100%;
 }
+
+
 #restaurant-name {
   color: #f18200;
   font-family: Arial,sans-serif;
