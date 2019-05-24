@@ -16,6 +16,5 @@
   "start_url": "/RestaurantApp/",
   "background_color": "#3367D6",
   "display": "standalone",
-  "scope": "/RestaurantApp/",
   "theme_color": "#3367D6"
 }
