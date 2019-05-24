@@ -3,13 +3,13 @@
   "name": "Restaurant App",
   "icons": [
     {
-      "src": "img/1.jpg",
-      "type": "image/jpg",
+      "src": "fun2.png",
+      "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "img/2.jpg",
-      "type": "image/jpg",
+      "src": "fun.png",
+      "type": "image/png",
       "sizes": "512x512"
     }
   ],
