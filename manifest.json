@@ -15,6 +15,6 @@
   ],
   "start_url": "/RestaurantApp/",
   "background_color": "#3367D6",
-  "display": "standalone",
+  "display": "fullscreen",
   "theme_color": "#3367D6"
 }
