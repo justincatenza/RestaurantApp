@@ -1,13 +1,13 @@
 const myCacheName = 'CacheV1';
 const cachesToAdd = [
-  '../css/styles.css',
-  '../data/restaurants.json',
-  '../js/dbhelper.js',
-  '../js/main.js',
-  '../js/restaurant_info.js',
-  '../index.html',
-  '../restaurant.html',
-  '../manifest.json',
+  '/RestaurantApp/css/styles.css',
+  '/RestaurantApp/data/restaurants.json',
+  '/RestaurantApp/js/dbhelper.js',
+  '/RestaurantApp/js/main.js',
+  '/RestaurantApp/js/restaurant_info.js',
+  '/RestaurantApp/index.html',
+  '/RestaurantApp/restaurant.html',
+  '/RestaurantApp/manifest.json',
 ]
 
 self.addEventListener('install', function(event) {
